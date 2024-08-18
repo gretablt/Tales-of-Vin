@@ -1,7 +1,7 @@
-## TALES OF VIN
+## Tales of Vin
+Una breve descrizione del progetto, spiegando cosa fa e perché è importante.
 
-
-## **Indice**
+# **Indice**
 
 - [Introduzione](#introduzione)
 - [Installazione](#installazione)
