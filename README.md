@@ -1,9 +1,9 @@
-# Vincent's Tales: an interactive virtual world inspired by van Gogh
+# Tales of Vin: an interactive virtual world inspired by van Gogh
 
 **Imagine stepping inside a Vincent van Gogh painting — not just admiring it from afar, but diving into the stories, emotions, and relationships that shaped his art. This project transports you into an interactive virtual world where art comes to life, and every brushstroke tells a story. Through interactive levels and guided quests, you'll explore his iconic masterpieces while uncovering the lesser-known aspects of his troubled life, experiencing a captivating journey of color, sound and narrative. It's not just a visual experience; it's an intimate dialogue between the user and the artist, where technology and creativity merge to offer a new way of engaging with art. A unique opportunity to discover and immerse yourself in the tales Vincent himself told through his art work.**
 
 ### **Index**
-- [Introduzione](#introduzione)
+- [Overview](#overview)
 - [Concept](#installazione)
 - [Prototyping](#uso)
 - [Architettura](#architettura)
@@ -11,10 +11,14 @@
 - [Conclusioni](#conclusioni)
 - [Licenza](#licenza)
 
-### **Index**
-Nel 2023 si è assistito a un'esplosione di una nuova tipologia di mostra performativa dedicata a van gogh, ovvero le Cave Automatic Virtual Environment. Si tratta di mostre che proiettano su tutte le pareti, sia verticali sia orizzontali, brevi animazioni estratte dai quadri dell'artista. Queste mostre hanno avuto un incredibile successo e viralità tuttavia, presentano la comune problematica che spesso la mostra risulta "superficiale" e pur essendo ben instagrammabile, non educa all'arte. L'pbiettivo di tale progetto consiste infatti anche nel dimostrare come l'influenza delle nuove tecnologie, come la realtà virtuale e l'arte digitale, possano effettivamente essere di supporto all'accessibilità dell'arte e educare a essa.
+***
+### **Overview**
+`virtual reality`, `digital narrative`, `interactivity`, `videogame`,`accessibility of art`, `Van Gogh`
 
-Uno si potrebbe chiedere perchè mai creare c'è bisogno di creare un ambiente virtuale interattivo ispirato all'arte di Van Gogh; le sue opere sono esposte in musei di tutto il mondo e poter contemplare dal vivo un suo quadro, ammirandone i diversi strati di pittura e il modo in cui i colori catturano la luce, permette un'emozione unica che non è comparabile con un'esperienza digitale. Tuttavia, questo è valido per un pubblico artistico già esperto ed appassionato all'arte, ma per quanto riguarda i giovani o coloro che non sono esperti di arte? Quella piccola nicchia di persone che avrebbero piacere a conoscere di più di Van Gogh ma non possono permettersi di viaggiare dall'altro capo del mondo per visitare il suo museo o che la vastità della conoscenza artistica li spaventa al punto da non sapere come approcciarsi all'arte? Questo progetto nasce dall'esigenza personale di rendere l'arte più accessibbile anche a un pubblico giovane che si vuole approcciare al mondo artistico ma ne ha poca esperienza, ma al contempo ha una grossa familiarità con le nuove tecnologie. L'obiettivo è quindi rendere il patrimonio artistico di van gogh più accessibile attraverso un approccio di contemplazione e fruizione dell'arte digitale che ricorre alla modellazione 3D, alle esperienze virtuali e all'interattività participativa per educare al patrimonio artistico di van gogh. 
+![](https://github.com/gretablt/Tales-of-Vin/Samples/VanGoghMilano.jpg)
+> Van Gogh: The Immersive Experience, Milano 2023.
+
+This project was inspired by the recent popularity of immersive Van Gogh exhibitions that use projections to animate his artwork in large, visually captivating spaces. While these experiences are widely celebrated for their appeal, they often lack depth, offering only a brief, surface-level connection to the artist’s work. My goal is to create an experience that combines virtual reality and digital art to make Van Gogh’s work accessible and educational for new audiences, especially those who may feel distanced from traditional art settings. Using 3D modeling, interactivity, and immersive environments, this project aims to offer a meaningful, engaging way to experience Van Gogh’s legacy—inviting a younger, tech-savvy audience to connect with art in a fresh and personal way.
 
 ### **Concept**
 The goal of "Vincent's Tales" is to create an immersive, interactive virtual environment where users can explore both the art and the personal life of Vincent van Gogh. Through guided quests and interactive storytelling, the project aims to provide a deeper understanding of van Gogh's work and humanize his experiences, beyond the canvas.
@@ -25,6 +29,21 @@ Attraverso l'applicazione delle nuove tecnologie digitali, questo progetto aspir
 L'analisi dei casi studio presentati nel secondo capitolo evidenzia l'importanza di un approccio al mondo virtuale che riesca a integrare efficacemente il tema artistico, facendo leva sull'interattività, la narrazione e la personalizzazione. Un approccio che supera i tentativi, spesso di poco successo, di riproporre il patrimonio artistico tramite musei virtuali o virtual tour 360°, che si limitano a replicare fedelmente gli spazi espositivi fisici, senza aggiungere elementi interattivi o digitale che arricchiscano l'esperienza dell'utente. Diventa quindi evidente la necessità di adattare il patrimonio artistico di Van Gogh per renderlo fruibile in un ambiente virtuale, che presenta caratteristiche e proprietà differenti dalla tradizionale esposizione artistica fisica di gallerie o musei. Infatti, riprodurre le sue opere in un ambiente tridimensionale con estrema fedeltà all'originale limita l'esperienza: vedere i quadri di persona rimane insuperabile per apprezzarne texture, qualità e profondità di colore. Se l'intento è semplicemente rendere l'arte accessibile a tutti, piattaforme come Google Arts & Culture, che offrono scansioni ad altissima risoluzione con brevi descrizioni, sono più che efficaci. Tuttavia, se l'obiettivo è valorizzare i quadri bidimensionali in un contesto tridimensionale, diventa indispensabile un'interpretazione artistica e creativa che li adatti a questo nuovo ambiente.
 
 Questo implica l'uso di un ambiente virtuale tridimensionale arricchito da elementi distintivi del digitale, quali l'interattività, la personalizzazione e componenti aggiuntive come il suono o la possibilità di connessione multiutente, il tutto integrato in una narrazione pensata appositamente per il contesto virtuale. Il progetto mira quindi a dimostrare come la trasposizione dell'arte tradizionale in ambienti virtuali possa arricchire la comprensione delle opere, offrendo esperienze immersive e personalizzate che si differenziano dal convenzionale approccio museale ed espositivo e mettendo in mostra nuove possibilità per l'educazione artistica e culturale nel XXI secolo.
+
+
+
+***
+# Processo
+### Pre-concept
+
+
+
+
+
+
+
+
+
 
 ### **Prototyping**
 #### Processi di modellazione e texturizzazione nella ricostruzione 3D delle opere di Van Gogh
